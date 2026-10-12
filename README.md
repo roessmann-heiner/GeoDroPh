@@ -32,7 +32,7 @@ GeoDroPh is designed for:
 #### Simultaneous Display of a Oblique Photo and a Correspondingly Aligned Section of the Map Layer 
 ![Oblique Photo](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
 
-#### Rectified  drone photo  
+#### Rectified drone photo  
 ![Rectified Photo](docs/Screenshot_rectification.png)
 
 ---
