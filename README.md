@@ -1,4 +1,4 @@
-# GeoDroPh – Direct Georeferencing for Drone Photos
+# GeoDroPh – Direct Georeferencing of Drone Photos
 
 GeoDroPh is a QGIS plugin that performs rapid direct georeferencing of DJI drone photos using onboard GNSS/IMU data.  
 It calculates the positions and footprints of aerial images and enables 2D and 3D visualization for a quick review
@@ -32,8 +32,8 @@ GeoDroPh is designed for:
 #### Simultaneous Display of a Oblique Photo and a Correspondingly Aligned Section of the Map Layer 
 ![Oblique Photo](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
 
-#### Rectified drone photo  
-![Rectificatied Photo](docs/Screenshot_rectification.png)
+#### Rectified  drone photo  
+![Rectified Photo](docs/Screenshot_rectification.png)
 
 ---
 
