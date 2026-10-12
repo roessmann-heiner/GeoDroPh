@@ -25,9 +25,10 @@ Further views:
 
 ### QGIS
 
-Further examples:
+![Camera Positions and Orientations](docs/Screenshot_QGIS_Camera_Positions.png)
 
-- 📷 [Camera Positions and Orientations](docs/Screenshot_QGIS_Camera_Positions.png)
+Further views:
+
 - 📷 [Nadir Photo and Corresponding Map Section](docs/Screenshot_QGIS_SimultaneousNadirView.png)
 - 📷 [Oblique Photo and Corresponding Map Section](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
 - 📷 [Rectified Drone Photo](docs/Screenshot_rectification.png)
