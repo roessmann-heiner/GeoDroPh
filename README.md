@@ -14,17 +14,26 @@ GeoDroPh is designed for:
 
 ## 📸 Screenshots
 
-### GeoDroPh main interface  
-![Main Interface](docs/screenshot_main.png)
+### GeoDroPh
+#### XY Visualisation of Aerial Survey
+![GeoDroPh XY Layer](docs/Screenshot_XY_1.png)
 
-### Image footprints and overlaps  
-![Footprints](docs/screenshot_footprints.png)
+#### 3D Visualisation of Aerial Survey  
+![GeoDroPh 3D Layer](docs/Screenshot_3D_1.png)
 
-### 3D flight path visualization  
-![3D View](docs/screenshot_3d.png)
 
-### Rectified drone photo  
-![Rectification](docs/screenshot_rectified.png)
+### QGIS
+#### Camera Positions and Orientations
+![Camera Positions](docs/Screenshot_QGIS_Camera_Positions.png)
+
+#### Simultaneous Display of a Nadir Photo and a Correspondingly Aligned Section of the Map Layer 
+![Nadir Photo](docs/Screenshot_QGIS_SimultaneousNadirView.png)
+
+#### Simultaneous Display of a Oblique Photo and a Correspondingly Aligned Section of the Map Layer 
+![Oblique Photo](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
+
+#### Rectified drone photo  
+![Rectificatied Photo](docs/Screenshot_rectification.png)
 
 ---
 
