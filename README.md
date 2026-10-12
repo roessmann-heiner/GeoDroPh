@@ -15,11 +15,11 @@ GeoDroPh is designed for:
 📸 Screenshots
 GeoDroPh
 XY Visualisation of Aerial Survey
-![cs/Screenshot_XY_1.png
+![docs/Screenshot_XY_1.png
 
 Additional screenshots:
 
-[ocs/Screenshot_3D_1.png
+[docs/Screenshot_3D_1.png
 [Camera Positions and Orientations](docs/
 docs/Screenshot_QGIS_SimultaneousNadirView.png
 [Simultaneous Oblique View](docs/Screenshot_QGIS_SimultaneousObliqueectification.png
