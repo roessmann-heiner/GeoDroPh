@@ -3,7 +3,7 @@
 GeoDroPh is a QGIS plugin that performs rapid direct georeferencing of DJI drone photos using onboard GNSS/IMU data.  
 It calculates the positions and footprints of aerial images and enables 2D and 3D visualization for a quick review
 of the aerial survey. It performs rectification of nadir photos and imports them—along with positions, footprints,
-flight path, and user-defined layers—directly into QGIS.
+flight path, and user-defined layers—directly into QGIS for further spatial analysis.
 
 GeoDroPh is designed for:
 - emergency response teams (fire rescue, disaster response, wildlife conservation)
