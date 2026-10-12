@@ -21,6 +21,7 @@ GeoDroPh is designed for:
 
 Further views:
 
+- 📷 [XZ Visualisation of Aerial Survey](docs/Screenshot_XY.png)
 - 📷 [3D Visualisation of Aerial Survey](docs/Screenshot_3D_1.png)
 
 ### QGIS
