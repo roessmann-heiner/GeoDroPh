@@ -32,12 +32,6 @@ Further examples:
 - 📷 [Oblique Photo and Corresponding Map Section](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
 - 📷 [Rectified Drone Photo](docs/Screenshot_rectification.png)
 
-
-
-
-#### Rectified drone photo  
-![Rectified Photo](docs/Screenshot_rectification.png)
-
 ---
 
 ## 🚀 Features
