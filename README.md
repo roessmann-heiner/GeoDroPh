@@ -53,7 +53,7 @@ Further views:
 ## 📥 Installation
 
 ### 🔹 Installation from the QGIS Plugin Repository
-Do not use the automatically generated GitHub "Source code (zip)" download.
+Do not use the automatically generated GitHub "Source code (zip)" or "Source code (tar.gz)".
 Download the GeoDroPh release ZIP instead.
 
 1. Open **QGIS**
