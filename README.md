@@ -136,7 +136,9 @@ Please use the issue tracker linked in the plugin metadata.
 
 ## 📦 Repository
 
-*(Insert your GitHub repository link here)*
+The GeoDroPh source code, release packages and documentation are available on GitHub:
+
+[GeoDroPh GitHub Repository](https://github.com/roessmann-heiner/GeoDroPh-Preview)
 
 ---
 
