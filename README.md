@@ -16,13 +16,13 @@ GeoDroPh is designed for:
 
 ### GeoDroPh
 
-#### XY Visualisation of Aerial Survey
+#### XY visualisation of the aerial survey
 ![GeoDroPh XY Layer](docs/Screenshot_XY_1.png)
 
 Further views:
 
-- 📷 [XZ Visualisation of Aerial Survey](docs/Screenshot_XZ.png)
-- 📷 [3D Visualisation of Aerial Survey](docs/Screenshot_3D_1.png)
+- 📷 [XZ visualisation of the aerial survey](docs/Screenshot_XZ.png)
+- 📷 [3D visualisation of the aerial survey](docs/Screenshot_3D_1.png)
 
 ### QGIS
 
