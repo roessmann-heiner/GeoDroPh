@@ -142,6 +142,12 @@ The GeoDroPh source code, release packages and documentation are available on Gi
 
 ---
 
+## ⚠️ Disclaimer
+GeoDroPh is provided "as is", without warranty of any kind. Users are responsible for verifying the correctness of all generated coordinates, 
+footprints, orientations and rectified images before using them for operational, legal, surveying or safety-critical purposes.
+
+---
+
 ## 🛰 Acknowledgements
 
 - QGIS Plugin Builder  
