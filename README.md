@@ -26,6 +26,7 @@ Further views:
 
 ### QGIS
 
+#### Camera positions and orientations
 ![Camera Positions and Orientations](docs/Screenshot_QGIS_Camera_Positions.png)
 
 Further views:
@@ -40,21 +41,35 @@ Further views:
 
 - **Fast direct georeferencing** of nadir as well as oblique drone photos
 - **Using EXIF GPS/IMU metadata**
-- **Computation of positons, footprints and flight path**
+- **Computation of positions, footprints and flight path**
 - **2D and 3D visualization** for reviewing the aerial survey   
 - **Rapid rectification** of nadir images  
 - **Automatic import** of GeoDroPh results into QGIS
 - **Optional import** of map layers prepared by the user
-- **Simultaneous display** of original drone images and correspondingly aligned section of map layers
+- **Simultaneous display** of original drone images and the corresponding map section
 - **Display of rectifications** on map layers
+
+---
+
+## 🛠 Requirements
+
+GeoDroPh supports the following QGIS versions:
+
+- **QGIS 3.28 LTR – QGIS 3.40.8 (Qt5)**  
+- **QGIS 4.2 and newer (Qt6)**
+
+GeoDroPh does **not** support:
+
+- **QGIS 3.40.9 – QGIS 4.0.3**
+  (these versions use early Qt6 bindings and contain breaking API changes)
+
+The plugin will install in these versions, but **it will not start**, because GeoDroPh performs an internal version check to prevent crashes.
 
 ---
 
 ## 📥 Installation
 
 ### 🔹 Installation from the QGIS Plugin Repository
-Do not use the automatically generated GitHub "Source code (zip)" or "Source code (tar.gz)".
-Download the GeoDroPh release ZIP instead.
 
 1. Open **QGIS**
 2. Go to **Plugins → Manage and Install Plugins**
@@ -71,6 +86,8 @@ GeoDroPh installation, a system-wide installation of ExifTool is **required**.
 ---
 
 ### 🔹 Installation from GitHub (ZIP package)
+Do not use the automatically generated GitHub "Source code (zip)" or "Source code (tar.gz)".
+Download the GeoDroPh release ZIP instead.
 
 1. Download the latest release ZIP from GitHub  
 2. In QGIS, open **Plugins → Manage and Install Plugins → Install from ZIP**
@@ -83,31 +100,29 @@ A system-wide ExifTool installation is **not required**.
 
 ---
 
-## 🛠 Requirements
-
-GeoDroPh supports the following QGIS versions:
-
-- **QGIS 3.28 LTR – QGIS 3.40.8 (Qt5)**  
-- **QGIS 4.2.1 and newer (Qt6)**
-
-GeoDroPh does **not** support:
-
-- **QGIS 3.40.9 – QGIS 4.2.0**
-  (these versions use early Qt6 bindings and contain breaking API changes)
-
-The plugin will install in these versions, but **it will not start**, because GeoDroPh performs an internal version check to prevent crashes.
-
----
-
 ## 🧩 Troubleshooting
 
 ### GeoDroPh does not start
 GeoDroPh performs an internal version check.  
-The plugin will not start in QGIS versions **3.40.9 – 4.2.0**, because these releases contain unstable Qt6 bindings and breaking API changes.
+The plugin will not start in QGIS versions **3.40.9 – 4.0.3**, because these releases contain unstable Qt6 bindings and breaking API changes.
 
 ### ExifTool not found
 - If installed from QGIS Repository → install ExifTool system‑wide  
 - If installed from GitHub ZIP → ensure `exiftool.exe` and `exiftool_files` are present in the plugin directory
+
+---
+
+## 📦 Downloads
+
+The latest GeoDroPh installation package can be downloaded from the GitHub Releases page.
+[Download GeoDroPh Releases](https://github.com/roessmann-heiner/GeoDroPh-Preview/releases)
+
+---
+
+## 🐞 Bug Reports and Feature Requests
+
+Please use the GitHub Issues page to report bugs, suggest improvements or request new features.
+[Open an Issue](https://github.com/roessmann-heiner/GeoDroPh-Preview/issues)
 
 ---
 
@@ -119,31 +134,9 @@ See the included `LICENSE` file for details.
 
 ---
 
-## 🧑‍💻 Author
-
-**Heiner Rößmann**  
-Münster, Germany  
-Email: *heiner.roessmann@gmail.com*
-
----
-
-## 🤝 Contributing
-
-Contributions, bug reports and feature requests are welcome.  
-Please use the issue tracker linked in the plugin metadata.
-
----
-
-## 📦 Repository
-
-The GeoDroPh source code, release packages and documentation are available on GitHub:
-
-[GeoDroPh GitHub Repository](https://github.com/roessmann-heiner/GeoDroPh-Preview)
-
----
-
 ## ⚠️ Disclaimer
-GeoDroPh is provided "as is", without warranty of any kind. Users are responsible for verifying the correctness of all generated coordinates, 
+GeoDroPh is provided "as is", without warranty of any kind.
+Users are responsible for verifying the correctness of all generated coordinates, 
 footprints, orientations and rectified images before using them for operational, legal, surveying or safety-critical purposes.
 
 ---
