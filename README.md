@@ -115,6 +115,7 @@ The plugin will not start in QGIS versions **3.40.9 – 4.0.3**, because these r
 ## 📦 Downloads
 
 The latest GeoDroPh installation package can be downloaded from the GitHub Releases page.
+
 [Download GeoDroPh Releases](https://github.com/roessmann-heiner/GeoDroPh-Preview/releases)
 
 ---
@@ -122,6 +123,7 @@ The latest GeoDroPh installation package can be downloaded from the GitHub Relea
 ## 🐞 Bug Reports and Feature Requests
 
 Please use the GitHub Issues page to report bugs, suggest improvements or request new features.
+
 [Open an Issue](https://github.com/roessmann-heiner/GeoDroPh-Preview/issues)
 
 ---
