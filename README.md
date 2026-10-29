@@ -37,6 +37,7 @@ Further views:
 
 Image Credits:
 The background orthophotos shown in the screenshots are provided by GeoBasis NRW.
+
 © GeoBasis NRW
 
 ---
