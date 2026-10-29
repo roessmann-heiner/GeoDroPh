@@ -35,6 +35,10 @@ Further views:
 - 📷 [Oblique Photo and Corresponding Map Section](docs/Screenshot_QGIS_SimultaneousObliqueView.png)
 - 📷 [Rectified Drone Photo](docs/Screenshot_rectification.png)
 
+Image Credits:
+The background orthophotos shown in the screenshots are provided by GeoBasis NRW.
+© GeoBasis NRW
+
 ---
 
 ## 🚀 Features
