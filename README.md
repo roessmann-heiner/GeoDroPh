@@ -73,7 +73,7 @@ The plugin will install in these versions, but **it will not start**, because Ge
 
 ## 📥 Installation
 
-### 🔹 Still in Progress: Installation from the QGIS Plugin Repository
+### 🔹 Installation from the QGIS Plugin Repository
 
 1. Open **QGIS**
 2. Go to **Plugins → Manage and Install Plugins**
