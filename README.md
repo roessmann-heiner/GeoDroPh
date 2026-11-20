@@ -124,6 +124,14 @@ The latest GeoDroPh installation package can be downloaded from the GitHub Relea
 
 ---
 
+## 📖 Documentation
+The GeoDroPh User Manual is available as a PDF document:
+
+- [Download GeoDroPh_en.pdf](docs/GeoDroPh_en.pdf)
+- [Download GeoDroPh_de.pdf](docs/GeoDroPh_de.pdf)
+
+---
+
 ## 🐞 Bug Reports and Feature Requests
 
 Please use the GitHub Issues page to report bugs, suggest improvements or request new features.
